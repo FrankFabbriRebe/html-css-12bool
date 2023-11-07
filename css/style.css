@@ -20,3 +20,15 @@ h1  {
     color: white;
 }
 
+.green {
+    margin: 1px;
+    background-color: #00E164;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+
+
+
