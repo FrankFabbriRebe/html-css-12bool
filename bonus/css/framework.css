@@ -131,3 +131,16 @@
 .col-offset-12 {
 	margin-left: calc((100% / 12) * 12)
 }
+
+/* regole flex */
+.start	{
+	justify-content: start;
+}
+
+.center	{
+	justify-content: center;
+}
+
+.end	{
+	justify-content: end;
+}
